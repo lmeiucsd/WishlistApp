@@ -21,18 +21,16 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [] Made the RecyclerView scrollable while not overlapping with EditText and Button layouts
+- [x] Made the RecyclerView scrollable while not overlapping with EditText and Button layouts
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of how the wishlist works:
 
 <img src='wishlist.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with  
-
-[ScreenToGif](https://www.screentogif.com/) for Windows
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 
 ## Notes
